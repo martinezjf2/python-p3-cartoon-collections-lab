@@ -33,4 +33,6 @@ def find_the_cheese(list):
         if element in cheese:
             return element
     return None    
+
+# Resource on the "in" keyword: https://www.w3schools.com/python/ref_keyword_in.asp
     
